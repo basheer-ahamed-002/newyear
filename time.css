@@ -62,6 +62,9 @@ h1{
     .box p{
         font-size: 30px;
     }
+    .container{
+        gap:30px;
+    }
 
 }
 @media(min-width:768px){
@@ -76,6 +79,9 @@ h1{
     }
     .box p{
         font-size: 40px;
+    }
+    .container{
+        gap:30px;
     }
 
 
