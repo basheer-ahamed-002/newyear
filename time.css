@@ -62,9 +62,11 @@ h1{
     .box p{
         font-size: 30px;
     }
-    .container{
-        gap:30px;
-    }
+   .box{
+       width:100px;
+       height:70px
+   }
+
 
 }
 @media(min-width:768px){
@@ -80,9 +82,11 @@ h1{
     .box p{
         font-size: 40px;
     }
-    .container{
-        gap:30px;
-    }
+   .box{
+       width:150px;
+       height:100px
+   }
+
 
 
 }
